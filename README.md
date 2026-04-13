@@ -1,4 +1,4 @@
-# netsoc-monitor
+# netsoc-monitor( for windows)
 
 
 https://npcap.com/
